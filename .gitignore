@@ -1,0 +1,13 @@
+*.swp
+*~
+Gemfile.lock
+.vagrant
+.*.sw?
+pkg
+spec/fixtures
+.rspec_system
+.vagrant
+.bundle
+bundle
+vendor
+;
