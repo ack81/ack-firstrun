@@ -1,0 +1,19 @@
+{
+  "author": "Adam Kinney",
+  "dependencies": [],
+  "license": "Apache License, Version 2.0",
+  "name": "ack-firstrun",
+  "operatingsystem_support": [
+  	{ "operatingsystem": "RedHat" },
+  	{ "operatingsystem": "CentOS" },
+  	{ "operatingsystem": "Debian" },
+  	{ "operatingsystem": "Ubuntu" },
+  	{ "operatingsystem": "AIX" }
+  ],
+  "project_page": "https://github.com/ack81/puppet-firstrun",
+  "requirements": [],
+  "source": "",
+  "summary": "",
+  "tags": [],
+  "version": "0.1.0"
+}

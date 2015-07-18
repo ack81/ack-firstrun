@@ -1,1 +1,1 @@
-# ack-firstrun
+# puppet-firstrun
