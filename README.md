@@ -6,8 +6,8 @@ ack-firstrun
 1. [Overview](#overview)
 2. [Module Description](#module-description)
 3. [Setup](#setup)
-    * [Getting Started](#Getting-Started)
-4. [Prerequisites](#Prerequisites)
+    * [Getting Started](#getting-started)
+4. [Prerequisites](#prerequisites)
 
 ## Overview
 
